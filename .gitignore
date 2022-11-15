@@ -1,0 +1,8 @@
+
+*.pyc
+.idea/YoutubeRedditBot-Shorts.iml
+.idea/vcs.xml
+.idea/runConfigurations.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/workspace.xml
